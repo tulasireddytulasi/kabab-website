@@ -1,0 +1,23 @@
+/*.texthover:hover {
+     opacity: 0.7; 7E93AF 283A6D 
+    color: #7E93AF;
+}*/
+
+.textcolor {
+    color: #283A6D;
+}
+
+.headingtextcolor {
+    color: #283A6D;
+    font-family: myFirstFont;
+    font-size: 50px;
+}
+
+.link {
+    color: #7E93AF;
+}
+
+.link:hover {
+    color: #283A6D;
+    text-decoration: none;
+}
